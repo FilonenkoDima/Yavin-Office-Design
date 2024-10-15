@@ -7,14 +7,14 @@ $secondary: #cc2973;
 $dark: #191e47;
 $light: #f9fafe;
 $body-color: #494c52;
-$headings: $dark;
+$headings-color: $dark;
 
 // Navbar
-$navbar-nav-link-padding-x: 0 8rem;
+$navbar-nav-link-padding-x: 0.8rem;
 $navbar-padding-y: 1rem;
 $nav-link-font-weight: 700;
 
-// Spacings
+// Spacing
 $spacer: 1rem !default;
 $spacers: (
   0: 0,
