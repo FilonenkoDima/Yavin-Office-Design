@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "sass:build": "sass --no-source-map scss:css",
+    "sass:build": "npm i && sass --no-source-map scss:css",
     "sass:watch": "sass --no-source-map --watch scss:css"
   },
   "author": "Dmytro Filonenko",
