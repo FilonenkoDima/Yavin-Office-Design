@@ -10,6 +10,8 @@
   "license": "MIT",
   "description": "description",
   "dependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0",
     "@fortawesome/fontawesome-free": "^6.6.0",
     "bootstrap": "5.2.3",
     "sass": "1.62.1",
